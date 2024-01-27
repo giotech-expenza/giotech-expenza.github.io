@@ -45,6 +45,10 @@ You have the right to:
 - Opt-out of certain data processing
 - Delete your account and data
 
+## Important Notice
+- The application and the company will not be liable for any information loss.
+- The app is not responsible for any images and texts, including nudity and content that violates the law, etc., uploaded by the user.
+
 ## Updates to Privacy Policy
 
 We may update our privacy policy to reflect changes in our practices or for legal reasons. We will notify you of any significant changes.

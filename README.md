@@ -1,3 +1,8 @@
+# About Expenza
+
+## Creation and Deletion of user's information
+- The creation and Deletion of user's information is only available within the applicatiom.
+
 # Expenza Privacy Policy
 
 ## Overview
